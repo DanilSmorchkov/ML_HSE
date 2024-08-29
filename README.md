@@ -1,6 +1,6 @@
 # ML HSE
 
-Materials and homework assignments for HSE machine learning course
+Домашние задания из курса по Машинному Обучению во ВШЭ
 
 ## Tasks
 #### Task 1. [KNN](/Homeworks/Homework_1)
